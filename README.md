@@ -135,12 +135,11 @@ After running this script, use your `<EC2-instance-IP:8080>` and access it via t
 
 - Now run the Pipeline Script and wait at least 30 minutes because it takes 30 minutes to execute all dependencies and tasks.
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Conclusion
 This project demonstrates the power of DevSecOps in deploying a modern application like a Netflix clone. By automating the build, test, and deployment processes and incorporating monitoring tools, we ensure a robust and scalable deployment pipeline. I hope you find this project useful and insightful!
 
----
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 

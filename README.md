@@ -225,6 +225,7 @@ After running this script, use your `<EC2-instance-IP:8080>` and access it via t
 ```
 
 - According to your changes, update your Docker Hub email, Sonar token, and everything in the pipeline; do not simply copy the same as before.
+- After completing this, check your Grafana to review your Jenkins aborted jobs and other details. Then access your `Netflix-EC2-public-IP with port 8081` to view the Netflix deployment. Remember to use your own TMDB API key in Docker build and push Stages in Pipeline.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 

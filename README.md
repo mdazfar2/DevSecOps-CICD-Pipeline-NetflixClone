@@ -1,4 +1,4 @@
-# DevSecOps Project: Netflix Clone Deployment with CI/CD Pipeline
+# DevSecOps Project: Netflix Clone Deployment with CI/CD Pipeline.
 
 ## Workflow Diagram of my Project -
 ![netflix-workflow](https://github.com/mdazfar2/DevSecOps-CICD-Pipeline-NetflixClone/assets/100375390/1b8b47f4-47f6-4990-b349-8b0639507947)
